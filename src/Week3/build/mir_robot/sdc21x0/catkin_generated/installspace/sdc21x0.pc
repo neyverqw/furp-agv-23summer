@@ -1,0 +1,8 @@
+prefix=/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/install
+
+Name: sdc21x0
+Description: Description of sdc21x0
+Version: 1.1.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

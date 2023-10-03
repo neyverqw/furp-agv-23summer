@@ -1,0 +1,2 @@
+int32 first_num
+int32 second_num

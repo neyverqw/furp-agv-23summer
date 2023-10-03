@@ -1,0 +1,8 @@
+prefix=/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/install
+
+Name: mir_description
+Description: Description of mir_description
+Version: 1.1.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

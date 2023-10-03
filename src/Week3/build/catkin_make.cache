@@ -1,0 +1,2 @@
+mir_robot/mir_actions:mir_robot/mir_description:mir_robot/mir_driver:mir_robot/mir_dwb_critics:mir_robot/mir_gazebo:mir_robot/mir_msgs:mir_robot/mir_navigation:mir_robot/mir_robot:mir_robot/sdc21x0
+-DCATKIN_DEVEL_PREFIX=/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/devel -DCMAKE_INSTALL_PREFIX=/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/install -G Unix Makefiles

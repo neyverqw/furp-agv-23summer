@@ -1,0 +1,2 @@
+set(sdc21x0_MESSAGE_FILES "/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/src/mir_robot/sdc21x0/msg/Encoders.msg;/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/src/mir_robot/sdc21x0/msg/MotorCurrents.msg;/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/src/mir_robot/sdc21x0/msg/StampedEncoders.msg")
+set(sdc21x0_SERVICE_FILES "/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/src/mir_robot/sdc21x0/srv/Flags.srv")

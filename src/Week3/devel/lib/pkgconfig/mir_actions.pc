@@ -1,0 +1,8 @@
+prefix=/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/devel
+
+Name: mir_actions
+Description: Description of mir_actions
+Version: 1.1.7
+Cflags: -I/home/shao/Desktop/Gitlab/furp-agv-23summer/src/Week3/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib geometry_msgs message_runtime mir_msgs nav_msgs
